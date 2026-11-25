@@ -1,0 +1,23 @@
+circle_id,circle_name,region
+1,Delhi,North
+2,Punjab,North
+3,Haryana,North
+4,Himachal Pradesh,North
+5,Jammu & Kashmir,North
+6,Rajasthan,North
+7,Uttar Pradesh (East),North
+8,Uttar Pradesh (West),North
+9,Mumbai,West
+10,Maharashtra,West
+11,Gujarat,West
+12,Madhya Pradesh,West
+13,Andhra Pradesh,South
+14,Karnataka,South
+15,Tamil Nadu,South
+16,Kerala,South
+17,Kolkata,East
+18,West Bengal,East
+19,Bihar,East
+20,Odisha,East
+21,Assam,East
+22,North East,East

@@ -1,0 +1,15 @@
+plan_id,plan_name,plan_type,price_inr,validity_days,data_quota,daily_data_gb,voice,sms_per_day,ott_benefit,is_5g
+1,Prepaid Lite 99,Prepaid,99,14,0.5 GB/day,0.5,Limited,50,None,0
+2,Prepaid Smart 155,Prepaid,155,24,1 GB/day,1.0,Unlimited,100,None,0
+3,Prepaid Value 209,Prepaid,209,28,1 GB/day,1.0,Unlimited,100,None,0
+4,Prepaid Popular 299,Prepaid,299,28,1.5 GB/day,1.5,Unlimited,100,None,1
+5,Prepaid Data 349,Prepaid,349,28,2.5 GB/day,2.5,Unlimited,100,None,1
+6,Prepaid Entertainment 399,Prepaid,399,28,2.5 GB/day,2.5,Unlimited,100,OTT-Lite,1
+7,Prepaid Max 479,Prepaid,479,56,1.5 GB/day,1.5,Unlimited,100,None,1
+8,Prepaid Quarterly 719,Prepaid,719,84,2 GB/day,2.0,Unlimited,100,None,1
+9,Prepaid Annual 1799,Prepaid,1799,365,2 GB/day,2.0,Unlimited,100,OTT,1
+10,Postpaid 399,Postpaid,399,30,40 GB/month,1.33,Unlimited,100,OTT-Lite,1
+11,Postpaid 499,Postpaid,499,30,75 GB/month,2.5,Unlimited,100,OTT,1
+12,Postpaid 749,Postpaid,749,30,100 GB/month,3.33,Unlimited,100,OTT,1
+13,Postpaid Family 999,Postpaid,999,30,150 GB/month,5.0,Unlimited,100,OTT-Premium,1
+14,Postpaid Infinity 1499,Postpaid,1499,30,300 GB/month,10.0,Unlimited,100,OTT-Premium,1
